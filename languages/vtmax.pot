@@ -1,0 +1,1501 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Max Purchase for Woo\n"
+"POT-Creation-Date: 2014-05-19 13:48+1200\n"
+"PO-Revision-Date: 2014-05-19 13:48+1200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../vt-maximum-purchase.php:277
+msgid ""
+"<strong>Looks like you're running an older version of WordPress, you need to "
+"be running at least WordPress 3.3 to use the Varktech Maximum Purchase "
+"plugin.</strong>"
+msgstr ""
+
+#: ../vt-maximum-purchase.php:277
+msgid "VT Maximum Purchase not compatible - WP"
+msgstr ""
+
+#: ../vt-maximum-purchase.php:284
+msgid ""
+"<strong><em>PLUGIN CANNOT ACTIVATE &nbsp;&nbsp;-&nbsp;&nbsp;     Varktech "
+"Maximum Purchase </em>\n"
+"      <br><br>&nbsp;&nbsp;&nbsp;&nbsp;   Your installation is running on an "
+"older version of PHP \n"
+"      <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   - your PHP "
+"version = "
+msgstr ""
+
+#: ../vt-maximum-purchase.php:286
+msgid ""
+" . \n"
+"      <br><br>&nbsp;&nbsp;&nbsp;&nbsp;   You need to be running **at least "
+"PHP version 5** to use this plugin.  \n"
+"      <br><br>&nbsp;&nbsp;&nbsp;&nbsp;   Please contact your host and "
+"request an upgrade to PHP 5+ . \n"
+"      <br><br>&nbsp;&nbsp;&nbsp;&nbsp;   Then activate this plugin following "
+"the upgrade.</strong>"
+msgstr ""
+
+#: ../vt-maximum-purchase.php:289
+msgid "VT Min and Max Purchase not compatible - PHP"
+msgstr ""
+
+#: ../vt-maximum-purchase.php:299
+msgid ""
+"<strong>Looks like you're running an older version of WP E-Commerce. <br>You "
+"need to be running at least ** WP E-Commerce 3.8 **, to use the Varktech "
+"Maximum Purchase plugin.</strong>"
+msgstr ""
+
+#: ../vt-maximum-purchase.php:299
+msgid "VT Maximum Purchase not compatible - WPEC"
+msgstr ""
+
+#: ../vt-maximum-purchase.php:304
+msgid ""
+"<strong>Varktech Maximum Purchase for WP E-Commerce requires that WP E-"
+"Commerce be installed and activated.</strong>"
+msgstr ""
+
+#: ../vt-maximum-purchase.php:304
+msgid "WP E-Commerce not installed or activated"
+msgstr ""
+
+#: ../vt-maximum-purchase.php:315
+msgid ""
+"<strong>Looks like you're running an older version of WooCommerce. <br>You "
+"need to be running at least ** WooCommerce 1.0 **, to use the Varktech "
+"Maximum Purchase plugin.</strong>"
+msgstr ""
+
+#: ../vt-maximum-purchase.php:315
+msgid "VT Maximum Purchase not compatible - WooCommerce"
+msgstr ""
+
+#: ../vt-maximum-purchase.php:320
+msgid ""
+"<strong>Varktech Maximum Purchase for WooCommerce requires that WooCommerce "
+"be installed and activated.</strong>"
+msgstr ""
+
+#: ../vt-maximum-purchase.php:320
+msgid "WooCommerce not installed or activated"
+msgstr ""
+
+#: ../vt-maximum-purchase.php:330
+msgid ""
+"<strong>Looks like you're running an older version of JigoShop. <br>You need "
+"to be running at least ** JigoShop 3.8 **, to use the Varktech Maximum "
+"Purchase plugin.</strong>"
+msgstr ""
+
+#: ../vt-maximum-purchase.php:330
+msgid "VT Maximum Purchase not compatible - JigoShop"
+msgstr ""
+
+#: ../vt-maximum-purchase.php:335
+msgid ""
+"<strong>Varktech Maximum Purchase for JigoShop requires that JigoShop be "
+"installed and activated.</strong>"
+msgstr ""
+
+#: ../vt-maximum-purchase.php:335
+msgid "JigoShop not installed or activated"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:96
+msgid ""
+"Update Error Messages :: The rule is not active until these are resolved ::"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:99
+msgid "Max Rule Type Selection"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:100
+msgid "Cart Search Criteria"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:101
+msgid "Rule Application Method"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:102
+msgid "Quantity or Price Maximum Amount"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:103
+msgid "Custom Message"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:104
+msgid "Maximum Purchase Rule ID"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:105
+msgid "Resources"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:176
+msgid "Choose how to look at the Candidate Population"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:177
+msgid ""
+"Maximum Amount rules will only look at the contents of the cart at "
+"checkout.\n"
+"            Maximum Amount rules define a candidate group within the cart. "
+"The Free version of the plugin\n"
+"            applies only to logged-in user membership status."
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:182
+msgid ""
+"The Pro version has other options available.\n"
+"            You can choose to apply the rule to the entire contents of the "
+"cart, or you can also have the rule \n"
+"            look only at those products in a particular category or category "
+"groups, or have the rule apply to a \n"
+"            single, specified product. "
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:192
+msgid "Select Search Type"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:205
+#: ../admin/vtmax-rules-ui.php:264
+msgid "&nbsp; Enter Product ID Number"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:209
+msgid "&nbsp; Product Name"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:217
+msgid "Apply to all products in the cart"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:217
+#: ../admin/vtmax-rules-ui.php:223
+#: ../admin/vtmax-rules-ui.php:231
+#: ../admin/vtmax-rules-ui.php:237
+#: ../admin/vtmax-rules-ui.php:420
+#: ../admin/vtmax-rules-ui.php:426
+#: ../admin/vtmax-rules-ui.php:432
+#: ../admin/vtmax-rules-ui.php:480
+#: ../admin/vtmax-rules-ui.php:486
+#: ../admin/vtmax-rules-ui.php:526
+#: ../admin/vtmax-rules-ui.php:531
+msgid "explained"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:218
+msgid ""
+"No threshhold group is chosen, and the initial rule logic applies to all "
+"products\n"
+"            to be found in the cart."
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:223
+msgid "Use Selection Groups"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:224
+msgid ""
+"Using selection groups, you can specify the initial focus of the rule, "
+"focusing on some products found in the cart.  \n"
+"            A selection group can be considered a threshhold, which when "
+"reached the other\n"
+"            aspects of the rule is applied.  For example, if you specify "
+"category Auto Parts, then\n"
+"            if products in categories other than Auto Parts are in the cart, "
+"the rule would not apply to them."
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:231
+msgid "Single Product with Variations"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:232
+msgid ""
+"Apply rule to the variations for a single product found in the cart, whose "
+"ID is supplied in the \"Product ID\" box.  Enter the Product ID and hit the "
+"\"Product and Variations\" button (The product ID can be found in the URL\n"
+"            of the product during a product edit session).  Select any/all "
+"of the variations belonging to the product."
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:237
+msgid "Single Product Only"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:238
+msgid ""
+"Only apply rule to a single product found in the cart, whose ID is supplied "
+"in the \"Product ID\" box.  The product ID can be found in the URL\n"
+"            of the product during a product edit session."
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:241
+msgid "For example, in the product edit session url:"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:243
+msgid "http://www.xxxx.com/wp-admin/post.php?post=872&action=edit"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:245
+msgid ""
+"The product id is in the \"post=872\" portion of the address, and hence the "
+"number is 872. You would enter \n"
+"            that number in the box to the left labeled \"Enter Product ID "
+"Number\"."
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:248
+msgid ""
+"NB: If **single** is chosen, the value of \"All\" is applied to the Rule "
+"Application Method, regardless of what is chosen below."
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:254
+msgid ""
+"When \"Single Product with Variations\" is chosen, at least one variation "
+"must be selected.\n"
+"         <br><br> NB - PLEASE NOTE: If the product variation structure is "
+"changed in any way, you MUST return to the matching rule and reselect your "
+"variation choices.\n"
+"         <br><br>Multiple rules may be created to apply to individual "
+"variations, or groups of variations within a product.           \n"
+"         <br><br>Please be sure to prevent any rule overlap when applied to "
+"a given\n"
+"            product-variation combination.  An overlap example: if there is "
+"a category-level rule covering an entire product, and an individual rule "
+"applying to any of the product variations.\n"
+"         <br><br>Rule overlap in variation rules is Not removed by the rule "
+"processing engine, it must be prevented here."
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:280
+msgid "Getting Variations ..."
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:286
+msgid "Refresh Variations"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:288
+msgid "Get Variations"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:298
+msgid "Product Variations"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:310
+msgid ""
+"Role/Membership is used within Wordpress to control access and capabilities, "
+"when a role is given to a user.  \n"
+"         Wordpress assigns certain roles by default such as Subscriber for "
+"new users or Administrator for the site's owner. Roles can also be used to "
+"associate a user \n"
+"         with a pricing level.  Use a role management plugin like http://"
+"wordpress.org/extend/plugins/user-role-editor/ to establish custom roles, "
+"which you can give \n"
+"         to a user or class of users.  Then you can associate that role with "
+"a Maximum Purchase Rule.  So when the user logs into your site, their Role "
+"interacts with the appropriate Rule.\n"
+"         <br><br>\n"
+"         In the Pro version, you may use an existing category to identify "
+"the group of products to which you wish to apply the rule.  \n"
+"         If you'd rather, use a Maximum Purchase Category to identify "
+"products - this avoids disturbing the store categories. Just add a Maximum "
+"Purchase Category, go to the product screen,\n"
+"         and add the product to the correct maximum purchase category.  (On "
+"your product add/update screen, the Mininimum purchase \n"
+"         category metabox is just below the default product category box.)  "
+"You can also apply the rule using User Membership or Roles  \n"
+"         as a solo selection, or you can use any combination of all "
+"three.  \n"
+"         <br><br>\n"
+"         Please take note of the relationship choice 'and/or'\n"
+"         when using roles.  The default is 'or', while choosing 'and' "
+"requires that both a role and a category be selected, before a rule\n"
+"         can be published."
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:327
+msgid "Product Categories"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:336
+msgid "Or"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:338
+#: ../admin/vtmax-setup-options.php:48
+#: ../admin/vtmax-setup-options.php:49
+msgid "Maximum Purchase Categories"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:366
+msgid "Membership List by Role"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:375
+#: ../admin/vtmax-rules-ui.php:443
+#: ../admin/vtmax-rules-ui.php:492
+msgid "Back to Top"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:389
+msgid "How is the Rule applied to the search results?"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:390
+msgid ""
+"Once we've figured out the population we're working on (cart only or "
+"specified groups),\n"
+"          how do we apply the rule?  Do we look at each product individually "
+"and apply the rule to\n"
+"          each product we find?  Or do we look at the population as a group, "
+"and apply the rule to the\n"
+"          group as a tabulated whole?  Or do we apply the rule to any we "
+"find, and limit the application \n"
+"          of the rule to a certain number of products?"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:398
+msgid "Select Rule Application Method"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:412
+msgid "*Any* applies to a *required*"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:413
+msgid "Maximum of:"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:415
+msgid "Products"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:420
+msgid "Treat the Selected Group as a Single Entity"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:421
+msgid ""
+"Using *All* as your method, you choose to look at all the products from your "
+"cart search results.  That means we add\n"
+"          all the quantities and/or price across all relevant products in "
+"the cart, to test against the rule's requirements."
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:426
+msgid "Each in the Selected Group"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:427
+msgid ""
+"Using *Each* as your method, we apply the rule to each product from your "
+"cart search results.\n"
+"          So if any of these products fail to meet the rule's requirements, "
+"the cart as a whole receives an error message."
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:432
+msgid "Apply the rule to any Individual Product in the Cart"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:433
+msgid ""
+"Using *Any*, we can apply the rule to any product in the cart from your cart "
+"search results, similar to *Each*.  However, there is a\n"
+"          maximum number of products to which the rule is applied. The "
+"product group is checked to see if any of the group fail to reach the "
+"maximum amount\n"
+"          threshhold.  If so, the error will be applied to products in the "
+"cart based on cart order, up to the maximum limit supplied."
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:437
+msgid "For example, the rule might be something like:"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:439
+msgid ""
+"&nbsp;&nbsp;\"You may buy a maximum of $10 for each of any of 2 products "
+"from this group.\""
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:454
+msgid "What are the Rule Amount Options?"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:455
+msgid ""
+"Maximum Purchase Rules can be applied to the quantity or the price of the "
+"products from \n"
+"          your cart search results."
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:460
+msgid "Select Rule Amount Option"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:474
+msgid "Maximum Amount:"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:480
+msgid "Apply to Quantity"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:481
+msgid ""
+"With Quantity chosen, we total up the units amount across indivual products, "
+"candidate groups in the cart, or the cart\n"
+"          in total.  Then we compare that total against the maximum amount "
+"for the rule."
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:486
+msgid "Apply to Price"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:487
+msgid ""
+"With Price chosen, we total up the price across indivual products, candidate "
+"groups in the cart, or the cart\n"
+"          in total.  Then we compare that total against the maximum amount "
+"for the rule."
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:505
+msgid "Which Rule Type?"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:506
+msgid ""
+"Maximum Purchase rules can set a limit for the current cart only, or set a "
+"customer purchase lifetime limit."
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:510
+msgid "Select Max Rule Type"
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:526
+msgid "Cart Only "
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:527
+msgid ""
+"The rule applies only to the current cart contents, no history actions taken."
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:531
+msgid "Lifetime Purchases "
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:532
+msgid ""
+"This selection applies the  rule to customer Lifetime cumulative purchase "
+"limits.  For each Rule/Purchaser/rule-affected cart contents, \n"
+"          cumulative information is stored on the database."
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:540
+msgid ""
+"\n"
+"          Lifetime limit rules track all relevant customer purchases, and "
+"check if total lifetime sales for this customer exceed the rule limit.\n"
+"          <br><br>Lifetime purchase rules create customer Lifetime "
+"cumulative purchase limits. For each Rule/Purchaser/rule-affected cart "
+"contents, cumulative information is stored on the database\n"
+"          , and this historical information is used as part of the lifetime "
+"limit computations. If a customer has previously purchased products covered "
+"by this rule, that information is \n"
+"          used to see if the cumulative total of historical purchases and "
+"current purchases exceeds the rule limit.\n"
+"          <br><br>For Lifetime limit functionality, \n"
+"          "
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:548
+msgid ""
+"          \n"
+"          <br><br>NB => Do not create a cart limit rule and a lifetime limit "
+"rule for the same product population.  Do just the lifetime rule, otherwise "
+"a duplicate error msg will result.\n"
+"          <br><br>ALSO, be very aware of TWO danger points in the system.  "
+"First, once history has been stored for rule lifetime purchases, you must be "
+"extremely careful in changing the\n"
+"          rule criteria, for any rule changes could invalidate history "
+"already stored.  Second, the system works off of the default formset for "
+"checkout purchaser name information.  \n"
+"          If you choose a custom formset, naming MUST follow the default "
+"checkout formset precisely, AND the new formset number must be entered in "
+"the options screen at the appropriate option.\n"
+"          "
+msgstr ""
+
+#: ../admin/vtmax-rules-ui.php:568
+msgid "Custom Message Text"
+msgstr ""
+
+#: ../admin/vtmax-rules-update.php:29
+msgid "The Rule needs to have a title, but title is empty."
+msgstr ""
+
+#: ../admin/vtmax-rules-update.php:43
+msgid ""
+"In Cart Search Criteria Selection Metabox, \"Use Selection Groups\" was "
+"chosen, but no Categories or Roles checked"
+msgstr ""
+
+#: ../admin/vtmax-rules-update.php:68
+msgid ""
+"In Select Rule Application cs Metabox, \"*Any* in the Population\" was "
+"chosen, but Maximum products count not filled in"
+msgstr ""
+
+#: ../admin/vtmax-rules-update.php:72
+msgid ""
+"In Select Rule Application  Metabox, \"*Any* in the Population\" was chosen, "
+"but Maximum products count not filled in"
+msgstr ""
+
+#: ../admin/vtmax-rules-update.php:75
+msgid ""
+"In Select Rule Application  Metabox, \"*Any* in the Population\" was chosen, "
+"but Maximum products count not numeric"
+msgstr ""
+
+#: ../admin/vtmax-rules-update.php:94
+#: ../admin/vtmax-rules-update.php:98
+msgid "In Maximum Amount for this role Metabox, Maximum Amount not filled in"
+msgstr ""
+
+#: ../admin/vtmax-rules-update.php:101
+msgid "In Maximum Amount for this role Metabox, Maximum Amount not numeric"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:24
+#: ../admin/vtmax-setup-options.php:25
+msgid "Rules Options Settings"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:34
+msgid "Upgrade to Maximum Purchase Pro"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:35
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:87
+msgid ""
+"Maximum Purchase Pro offers considerable versatility in creating maximum "
+"purchase rules."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:88
+msgid "In Maximum Purchase Pro, you can choose to apply the rule to:"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:90
+msgid "the entire contents of the cart."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:91
+msgid "an individual product."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:92
+msgid "the variations for an individual product."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:93
+msgid "those products in a particular Product category or group of categories."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:94
+msgid ""
+"those products in a particular Minumum Purchase category or group of "
+"categories. (particularly useful if you need to define a group outside of "
+"existing Product Categories)"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:95
+msgid "Membership Status, inclusive or exclusive of category participation."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:96
+msgid "<em>Set cumulative lifetime limits on rule purchases by customer.</em>"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:398
+msgid "Display Options"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:406
+msgid "Show Error Messages in Table Format (\"no\" = text format)"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:411
+msgid "Error messages can be shown in table formats."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:417
+msgid "Show Error Messages Just Before Checkout Products List"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:422
+#: ../admin/vtmax-setup-options.php:444
+msgid "Error messages are shown in one place at checkout by default."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:428
+msgid ""
+"Show Error Messages Just Before Checkout Products List - HTML Selector <em>"
+"(see => \"more info\")</em>"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:433
+msgid ""
+"For the Product area, Supplies the ID or Class HTML selector this message "
+"appears before"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:439
+msgid "Show 2nd Set of Error Messages at Checkout Address Area"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:450
+msgid ""
+"Show Error Messages Just Before Checkout Address List - HTML Selector <em>"
+"(see => \"more info\")</em>"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:455
+msgid ""
+"For the Address area, Supplies the ID or Class HTML selector this message "
+"appears before"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:461
+msgid "Show Rule ID in Error Message"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:466
+msgid "Show maximum amount rule id in error message."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:472
+msgid ""
+"Show Product Category Names in Maximum Purchase Error Message (Pro Only)"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:477
+msgid ""
+"If Product Categories are used, show their names in any error messages based "
+"on the search criteria."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:483
+msgid "Show Rule Category Names in Maximum Purchase Error Message (Pro Only)"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:488
+msgid ""
+"If Rule Categories are used, show their names in any error messages based on "
+"the search criteria."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:494
+msgid "Custom Maximum Purchase Error Message CSS, used at checkout time"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:499
+msgid ""
+"Realtime CSS override for maximum amount error messages shown at checkout "
+"time.  Supply CSS statements only."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:512
+msgid "Processing Options"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:531
+msgid "Apply More Than 1 Rule to Each Product"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:536
+msgid "Do we apply multiple rules to a given product?"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:549
+msgid "Lifetime Rule Options"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:555
+msgid "Check if a Customer has Rule Purchase History, <br>&nbsp; <i>by IP</i>"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:560
+msgid "Do we Check if a Customer has Rule Purchase History, by IP?"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:566
+msgid ""
+"Check if a Customer has Rule Purchase History, <br>&nbsp; <i>by Email</i>"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:571
+msgid "Do we Check if a Customer has Rule Purchase History, by Email?"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:577
+msgid ""
+"Check if a Customer has Rule Purchase History, <br>&nbsp; <i>by BillTo Name</"
+"i>"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:582
+msgid "Do we Check if a Customer has Rule Purchase History, by BillTo Name?"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:588
+msgid ""
+"Check if a Customer has Rule Purchase History, <br>&nbsp; <i>by BillTo "
+"Address</i>"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:593
+msgid "Check if a Customer has Rule Purchase History, by BillTo Address?"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:599
+msgid ""
+"Check if a Customer has Rule Purchase History, <br>&nbsp; <i>by ShipTo Name</"
+"i>"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:604
+msgid "Do we Check if a Customer has Rule Purchase History, by ShipTo Name?"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:610
+msgid ""
+"Check if a Customer has Rule Purchase History, <br>&nbsp; <i>by ShipTo "
+"Address</i>"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:615
+msgid "Check if a Customer has Rule Purchase History, by ShipTo Address?"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:637
+msgid "System and Debug Options"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:644
+msgid "Test Debugging Mode Turned On <br>(Use Only during testing)"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:649
+msgid "Show any built-in debug info for Rule processing."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:735
+#: ../admin/vtmax-setup-options.php:753
+#: ../admin/vtmax-setup-options.php:773
+#: ../admin/vtmax-setup-options.php:794
+#: ../admin/vtmax-setup-options.php:816
+#: ../admin/vtmax-setup-options.php:836
+#: ../admin/vtmax-setup-options.php:856
+#: ../admin/vtmax-setup-options.php:909
+#: ../admin/vtmax-setup-options.php:930
+#: ../admin/vtmax-setup-options.php:947
+#: ../admin/vtmax-setup-options.php:964
+#: ../admin/vtmax-setup-options.php:985
+#: ../admin/vtmax-setup-options.php:1002
+#: ../admin/vtmax-setup-options.php:1019
+#: ../admin/vtmax-setup-options.php:1037
+#: ../admin/vtmax-setup-options.php:1054
+#: ../admin/vtmax-setup-options.php:1071
+msgid "More Info"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:739
+msgid ""
+"\"Show Error Messages Just Before Checkout Products List\" => This is the "
+"standard place to show the error messages, just above the product list area."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:757
+msgid ""
+"\"Show Error Messages Just Before Checkout Address Area\" => This is the "
+"second \n"
+"  (duplicate) place to show error messages, just above the address area. It "
+"is particularly useful \n"
+"  if your checkout has multiple panes or pages, rather than a single full-"
+"display screen"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:777
+msgid ""
+"\"Show Maximum Purchase Rule Category Names in Error Message (Pro Only)\" "
+"=> \n"
+"  If you choose to use the group input search criteria option, and if you "
+"employ a Maximum Purchase Category to group the products, you can choose "
+"here \n"
+"  whether to include that Rule category name in any error messages produced."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:798
+msgid ""
+"\"Test Debugging Mode Turned On\" => \n"
+"  Set this to \"yes\" if you want to see the full rule structures which "
+"produce any error messages. **ONLY** should be used during testing.\n"
+"  <br><br>NB => IF this switch is SET and the \"purchase\" button is "
+"depressed, the following warning may result:\n"
+"  <br> \"Warning: Cannot modify header information - headers already sent by"
+"\" ... You will still have debug info available, however.\n"
+"  "
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:820
+msgid ""
+"\"Show Maximum Purchase Product Category Names in Error Message (Pro Only)\" "
+"=> \n"
+"  If you choose to use the group input search criteria option, and if you "
+"employ a Maximum Purchase Category to group the products, you can choose "
+"here \n"
+"  whether to include that Product category name in any error messages "
+"produced."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:840
+msgid ""
+"\"Apply More Than 1 Rule to Each Product\" => Do we apply multiple maximum "
+"purchase rules to EACH product in the cart?  If not,\n"
+"  we apply the FIRST rule we process which applies to a given product.  "
+"<strong>It is ***Strongly Suggested*** that this option be set to \"NO\", as "
+"otherwise the compounding error messages\n"
+"  could be quite confusing for the ecommerce customer.</strong>"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:860
+msgid ""
+"\"Show Error Messages in Table Format\" => Error messages can be shown in "
+"text or table format (\"yes\" = table format, \"no\" = text format).  If "
+"table format is desired,\n"
+"  set this option to \"yes\". "
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:913
+msgid ""
+"\"Custom Error Message CSS at Checkout Time\" => \n"
+"  The CSS used for maximum amount error messages is supplied.  If you want "
+"to override any of the css, supply just your overrides here. <br>For Example "
+"=> \n"
+"   div.vtmax-error .red-font-italic {color: green;}"
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:934
+msgid ""
+"\"Show Rule ID in Error Message\" => Append the Maximum Amount Rule ID (from "
+"the rule entry screen) at the end of\n"
+"  an error message, to help identify what rule generated the message. "
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:951
+msgid ""
+"\"Show Error Messages Just Before Checkout Products List - HTML Selector\" "
+"=> \n"
+"  <strong>This option controls the location of the message display, "
+"***handle with care***.</strong>  For the Product area error message, this "
+"option supplies the ID  or Class HTML selector this message appears before.  "
+"This selector would appear in your theme\"s checkout area,\n"
+"  just above the products display area.  Be sure to include the \".\" or \"#"
+"\" selector identifier before the selector name. Default = \""
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:968
+msgid ""
+"\"Show Error Messages Just Before Checkout Address List - HTML Selector\" "
+"=> \n"
+"  <strong>This option controls the location of the message display, "
+"***handle with care***.</strong>  For the Product area error message, this "
+"option supplies the ID  or Class HTML selector this message appears before.  "
+"This selector would appear in your theme\"s checkout area,\n"
+"  just above the address display area.  Be sure to include the \".\" or \"#"
+"\" selector identifier before the selector name. Default = \""
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:989
+msgid ""
+"\"Check if a Customer has Rule Purchase History, by IP\" => When using "
+"lifetime limits, use IP to identify the customer."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:1006
+msgid ""
+"\"Check if a Customer has Rule Purchase History, by Email\" => When using "
+"lifetime limits, use email to identify the customer."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:1023
+msgid ""
+"\"Check if a Customer has Rule Purchase History, by Billto Name\" => When "
+"using lifetime limits, use billto name to identify the customer."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:1041
+msgid ""
+"\"Check if a Customer has Rule Purchase History, by Billto addr\" => When "
+"using lifetime limits, use billto addr to identify the customer."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:1058
+msgid ""
+"\"Check if a Customer has Rule Purchase History, by Shipto Name\" => When "
+"using lifetime limits, use shipto name to identify the customer."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:1075
+msgid ""
+"\"Check if a Customer has Rule Purchase History, by Shipto addr\" => When "
+"using lifetime limits, use shipto addr to identify the customer."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:1159
+msgid ""
+" One of the following switches must also be set to \"yes\":\n"
+"           <br> \"Check if a Customer has Rule Purchase History, by IP\"\n"
+"           <br> \"Check if a Customer has Rule Purchase History, by Email\"\n"
+"           <br> \"Check if a Customer has Rule Purchase History, by BillTo "
+"Name\"\n"
+"           <br> \"Check if a Customer has Rule Purchase History, by BillTo "
+"Address\"\n"
+"           <br> \"Check if a Customer has Rule Purchase History, by ShipTo "
+"Name\"\n"
+"           <br> \"Check if a Customer has Rule Purchase History, by ShipTo "
+"Address\"\n"
+"        "
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:1173
+msgid ""
+" One of the following two switches must also be set to \"yes\":\n"
+"           <br> \"Show Error Messages Just Before Checkout Products List\"\n"
+"           <br> \"Show 2nd Set of Error Messages at Checkout Address Area\"\n"
+"        "
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:1182
+msgid ""
+" If \"Show Error Messages Just Before Checkout Products List\" = \"yes\",\n"
+"           <br> \"Show Error Messages Just Before Checkout Products List - "
+"HTML Selector\" must be filled in."
+msgstr ""
+
+#: ../admin/vtmax-setup-options.php:1189
+msgid ""
+" \"Show 2nd Set of Error Messages at Checkout Address Area\" = \"yes\",\n"
+"           <br> \"Show Error Messages Just Before Checkout Address List - "
+"HTML Selector\" must be filled in."
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:311
+msgid "<span id=\"table-error-messages\">"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:371
+msgid "<br /><br />"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:379
+#: ../core/vtmax-apply-rules.php:429
+#: ../core/vtmax-apply-rules.php:445
+#: ../core/vtmax-apply-rules.php:450
+#: ../core/vtmax-apply-rules.php:467
+#: ../core/vtmax-apply-rules.php:468
+#: ../core/vtmax-apply-rules.php:487
+#: ../core/vtmax-apply-rules.php:500
+#: ../core/vtmax-apply-rules.php:504
+#: ../core/vtmax-apply-rules.php:517
+#: ../core/vtmax-apply-rules.php:518
+#: ../core/vtmax-apply-rules.php:531
+#: ../core/vtmax-apply-rules.php:660
+#: ../core/vtmax-apply-rules.php:674
+#: ../core/vtmax-apply-rules.php:675
+#: ../core/vtmax-apply-rules.php:722
+#: ../core/vtmax-apply-rules.php:739
+#: ../core/vtmax-apply-rules.php:753
+#: ../core/vtmax-apply-rules.php:820
+msgid "</span>"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:424
+msgid "<span class=\"table-msg-line\">"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:425
+msgid "<span class=\"product-column color-grp"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:427
+#: ../core/vtmax-apply-rules.php:437
+#: ../core/vtmax-apply-rules.php:458
+#: ../core/vtmax-apply-rules.php:563
+#: ../core/vtmax-apply-rules.php:575
+#: ../core/vtmax-apply-rules.php:580
+#: ../core/vtmax-apply-rules.php:606
+#: ../core/vtmax-apply-rules.php:625
+#: ../core/vtmax-apply-rules.php:644
+msgid "\">"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:432
+msgid "<span class=\"quantity-column color-grp"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:435
+#: ../core/vtmax-apply-rules.php:456
+msgid " bold-this"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:439
+#: ../core/vtmax-apply-rules.php:497
+#: ../core/vtmax-apply-rules.php:514
+msgid "<span class=\"quantity-column\">"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:443
+#: ../core/vtmax-apply-rules.php:465
+msgid " &nbsp;(Error)"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:447
+#: ../core/vtmax-apply-rules.php:502
+msgid "<span class=\"price-column\">"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:453
+msgid "<span class=\"total-column color-grp"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:460
+msgid "<span class=\"total-column\">"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:484
+msgid "<span class=\"table-totals-line\">"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:485
+msgid "<span class=\"product-column\">"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:486
+#: ../core/vtmax-apply-rules.php:498
+#: ../core/vtmax-apply-rules.php:503
+#: ../core/vtmax-apply-rules.php:515
+msgid "&nbsp;"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:490
+msgid "<span class=\"quantity-column quantity-column-total color-grp"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:492
+#: ../core/vtmax-apply-rules.php:509
+msgid "\">("
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:495
+#: ../core/vtmax-apply-rules.php:512
+msgid ") Error"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:507
+msgid "<span class=\"quantity-column total-column-total color-grp"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:526
+msgid "<span class=\"table-titles\">"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:527
+msgid "<span class=\"product-column product-column-title\">Product:</span>"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:528
+msgid "<span class=\"quantity-column quantity-column-title\">Quantity:</span>"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:529
+msgid "<span class=\"price-column price-column-title\">Price:</span>"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:530
+msgid "<span class=\"total-column total-column-title\">Total:</span>"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:561
+msgid "<span class=\"table-error-msg\"><span class=\"bold-this color-grp"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:564
+msgid "Error => </span>"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:565
+msgid "Maximum Purchase "
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:570
+msgid "total"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:573
+msgid " <span class=\"color-grp"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:576
+msgid "quantity</span>"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:578
+msgid " of <span class=\"color-grp"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:584
+msgid "</span> allowed "
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:587
+msgid " </span>units allowed  "
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:592
+msgid "for this product."
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:597
+#: ../core/vtmax-apply-rules.php:616
+msgid "for this group."
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:600
+#: ../core/vtmax-apply-rules.php:619
+msgid "for each product within the group."
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:603
+#: ../core/vtmax-apply-rules.php:622
+#: ../core/vtmax-apply-rules.php:641
+msgid "for the first "
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:604
+#: ../core/vtmax-apply-rules.php:623
+#: ../core/vtmax-apply-rules.php:642
+msgid "<span class=\"color-grp"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:608
+#: ../core/vtmax-apply-rules.php:627
+msgid " </span>product(s) found within the product group."
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:635
+msgid "for the cart."
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:638
+msgid "for each product the cart."
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:646
+msgid " </span>product(s) found within the cart."
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:654
+#: ../core/vtmax-apply-rules.php:807
+msgid "<span class=\"rule-id\"> (Rule ID = "
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:656
+#: ../core/vtmax-apply-rules.php:809
+msgid ") </span>"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:666
+msgid "<span class=\"table-text-line\">"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:668
+msgid ""
+"<span class=\"table-text-cats\">The maximum purchase rule applies to any "
+"products in the following categories: </span><span class=\"black-font-italic"
+"\">"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:670
+#: ../core/vtmax-apply-rules.php:817
+#: ../core/vtmax-apply-rules.php:927
+msgid " \""
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:672
+#: ../core/vtmax-apply-rules.php:819
+msgid "\" "
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:708
+#: ../core/vtmax-apply-rules.php:725
+#: ../core/vtmax-apply-rules.php:742
+msgid "<span class=\"errmsg-begin\">Maximum Purchase Required -</span> for "
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:714
+#: ../core/vtmax-apply-rules.php:717
+#: ../core/vtmax-apply-rules.php:731
+#: ../core/vtmax-apply-rules.php:734
+msgid "each of"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:720
+msgid " the product(s) in this group: <span class=\"red-font-italic\">"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:737
+#: ../core/vtmax-apply-rules.php:745
+msgid " the products in this group: <span class=\"red-font-italic\">"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:748
+msgid " this product: <span class=\"red-font-italic\">"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:756
+msgid "For this product: <span class=\"red-font-italic\">\""
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:758
+msgid "\"</span>  "
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:764
+msgid ""
+"<br /><span class=\"errmsg-text\">A maximum of &nbsp;<span class=\"errmsg-"
+"amt-required\"> "
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:768
+msgid "</span> &nbsp;for the total group may be purchased.  The current total "
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:769
+#: ../core/vtmax-apply-rules.php:788
+msgid "for all the products "
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:770
+#: ../core/vtmax-apply-rules.php:789
+msgid "in the group is: <span class=\"errmsg-amt-current\"> "
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:773
+msgid "</span> &nbsp;for this product may be purchased.  The current total "
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:774
+#: ../core/vtmax-apply-rules.php:793
+msgid "for this product is: "
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:779
+msgid " </span></span> "
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:783
+msgid ""
+"<br /><span class=\"errmsg-text\">A maximum quantity of &nbsp;<span class="
+"\"errmsg-amt-required\"> "
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:787
+msgid ""
+" units</span> &nbsp;&nbsp;for the total group may be purchased.  The current "
+"total "
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:792
+msgid ""
+" units</span> &nbsp;&nbsp;for each product in the group may be purchased.  "
+"The current total "
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:798
+msgid " units.</span></span> "
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:800
+msgid " unit.</span></span> "
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:815
+msgid ""
+"<br />:: <span class=\"black-font\">The maximum purchase rule applies to any "
+"products in the following categories: </span><span class=\"black-font-italic"
+"\">"
+msgstr ""
+
+#: ../core/vtmax-apply-rules.php:929
+msgid "\"  "
+msgstr ""
+
+#: ../core/vtmax-backbone.php:18
+msgid "Search Maximum Purchase Category"
+msgstr ""
+
+#: ../core/vtmax-backbone.php:19
+msgid "All Maximum Purchase Categories"
+msgstr ""
+
+#: ../core/vtmax-backbone.php:20
+#: ../core/vtmax-backbone.php:80
+msgid "Maximum Purchase Category"
+msgstr ""
+
+#: ../core/vtmax-backbone.php:21
+msgid "Maximum Purchase Category:"
+msgstr ""
+
+#: ../core/vtmax-backbone.php:22
+msgid "Edit Maximum Purchase Category"
+msgstr ""
+
+#: ../core/vtmax-backbone.php:23
+msgid "Update Maximum Purchase Category"
+msgstr ""
+
+#: ../core/vtmax-backbone.php:24
+msgid "Add New Maximum Purchase Category"
+msgstr ""
+
+#: ../core/vtmax-backbone.php:25
+msgid "New Maximum Purchase Category"
+msgstr ""
+
+#: ../core/vtmax-backbone.php:49
+msgid "Add New Maximum Purchase Rule"
+msgstr ""
+
+#: ../core/vtmax-backbone.php:50
+msgid "Edit Maximum Purchase Rule"
+msgstr ""
+
+#: ../core/vtmax-backbone.php:51
+msgid "New Maximum Purchase Rule"
+msgstr ""
+
+#: ../core/vtmax-backbone.php:52
+msgid "View Maximum Purchase Rule"
+msgstr ""
+
+#: ../core/vtmax-backbone.php:53
+msgid "Search Maximum Purchase Rules"
+msgstr ""
+
+#: ../core/vtmax-backbone.php:54
+msgid "No Maximum Purchase Rules found"
+msgstr ""
+
+#: ../core/vtmax-backbone.php:55
+msgid "No Maximum Purchase Rules found in Trash"
+msgstr ""
+
+#: ../core/vtmax-backbone.php:57
+msgid "Maximum Purchase Rules"
+msgstr ""
+
+#: ../core/vtmax-rules-classes.php:106
+msgid " Apply to all Products in the Cart"
+msgstr ""
+
+#: ../core/vtmax-rules-classes.php:115
+msgid " Use Selection Groups"
+msgstr ""
+
+#: ../core/vtmax-rules-classes.php:124
+msgid " Single Product with Variations"
+msgstr ""
+
+#: ../core/vtmax-rules-classes.php:133
+msgid " Single Product Only"
+msgstr ""
+
+#: ../core/vtmax-rules-classes.php:168
+msgid " And"
+msgstr ""
+
+#: ../core/vtmax-rules-classes.php:177
+msgid " Or"
+msgstr ""
+
+#: ../core/vtmax-rules-classes.php:193
+msgid " *All* in the Population"
+msgstr ""
+
+#: ../core/vtmax-rules-classes.php:202
+msgid " *Each* in the Population"
+msgstr ""
+
+#: ../core/vtmax-rules-classes.php:211
+msgid " *Any* in the Population with limits"
+msgstr ""
+
+#: ../core/vtmax-rules-classes.php:230
+msgid " Apply to Quantity Total"
+msgstr ""
+
+#: ../core/vtmax-rules-classes.php:239
+msgid " Apply to Price"
+msgstr ""
+
+#: ../core/vtmax-rules-classes.php:259
+msgid " Cart Only"
+msgstr ""
+
+#: ../core/vtmax-rules-classes.php:268
+msgid " Lifetime Purchases"
+msgstr ""
+
+#: ../woo-integration/vtmax-parent-cart-validation.php:99
+#: ../woo-integration/vtmax-parent-cart-validation.php:102
+#: ../woo-integration/vtmax-parent-cart-validation.php:208
+#: ../woo-integration/vtmax-parent-cart-validation.php:211
+msgid "Maximum Purchase error found."
+msgstr ""
+
+#: ../woo-integration/vtmax-parent-definitions.php:30
+msgid "Enter Custom Message (optional)"
+msgstr ""
